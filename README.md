@@ -20,7 +20,7 @@ Developed using *Kotlin, Jetpack Compose, Material3, and Navigation*.
 ## 📸 Screenshots  
 
 ### Dashboard  
-![Dashboard](screenshots/dashboard.png)  
+![Dashboard](https://github.com/Juluru-Madhuri/ApexPlanet_Task2/blob/main/DashBoard.png)
 
 ### Notes  
 ![Notes](screenshots/notes.png)  
