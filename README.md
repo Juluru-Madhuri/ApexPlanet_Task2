@@ -26,7 +26,7 @@ Developed using *Kotlin, Jetpack Compose, Material3, and Navigation*.
 ![Notes](https://github.com/Juluru-Madhuri/ApexPlanet_Task2/blob/main/Notes.png)
 
 ### Attendance  
-![Attendance](screenshots/attendance.png)  
+![Attendance](https://github.com/Juluru-Madhuri/ApexPlanet_Task2/blob/main/Attendance.png)
 
 ### Profile  
 ![Profile](screenshots/profile.png)
