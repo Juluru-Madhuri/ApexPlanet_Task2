@@ -23,7 +23,7 @@ Developed using *Kotlin, Jetpack Compose, Material3, and Navigation*.
 ![Dashboard](https://github.com/Juluru-Madhuri/ApexPlanet_Task2/blob/main/DashBoard.png)
 
 ### Notes  
-![Notes](screenshots/notes.png)  
+![Notes](screenshots/notes.png)  ](https://github.com/Juluru-Madhuri/ApexPlanet_Task2/blob/main/Notes.png)
 
 ### Attendance  
 ![Attendance](screenshots/attendance.png)  
