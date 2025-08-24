@@ -29,4 +29,4 @@ Developed using *Kotlin, Jetpack Compose, Material3, and Navigation*.
 ![Attendance](https://github.com/Juluru-Madhuri/ApexPlanet_Task2/blob/main/Attendance.png)
 
 ### Profile  
-![Profile](screenshots/profile.png)
+![Profile](https://github.com/Juluru-Madhuri/ApexPlanet_Task2/blob/main/profile.png)
